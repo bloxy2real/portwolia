@@ -1,0 +1,30 @@
+.Bravura {
+    position: relative;
+    top: 300px; /* Moves element 20px down from its original position */
+    left: 50px; /* Moves element 50px right from its original position */
+}
+.audio-container {
+    position: relative;
+    top: 420px; /* Moves element 20px down from its original position */
+    left: 50px; /* Moves element 50px right from its original position */
+}
+.swp {
+    position: relative;
+    top: 200px; /* Moves element 20px down from its original position */
+    left: 50px; /* Moves element 50px right from its original position */
+}
+.Title {
+    position: relative;
+    top: 1px; /* Moves element 20px down from its original position */
+    left: 50px; /* Moves element 50px right from its original position */
+}
+.image {
+    position: relative;
+    top: -200px; /* Moves element 20px down from its original position */
+    left: 65px; /* Moves element 50px right from its original position */
+}
+.Description {
+    position: relative;
+    top: 215px; /* Moves element 20px down from its original position */
+    left: 65px; /* Moves element 50px right from its original position */
+}
